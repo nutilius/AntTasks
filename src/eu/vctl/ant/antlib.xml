@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : antlib.xml
+    Created on : 14 wrzesień 2010, 13:56
+    Author     : piotrk
+    Description:
+        Purpose of the document follows.
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<antlib>
+    <taskdef name="mytask1" classname="org.netbeans.modules.foo.MyTask1"/>
+</antlib>
+
